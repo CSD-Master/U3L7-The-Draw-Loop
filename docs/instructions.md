@@ -4,7 +4,8 @@ layout: tabbed-assignment
 
 # Instructions
 
-1. Work through [Lesson 7: The Draw Loop][lesson1] to start creating animated scenes.
+1. Work through [Lesson 7: The Draw Loop][lesson1] to start creating animated scenes. {% if site.data.assignment.lesson2 %}Then,
+1. Continue with [][lesson2]. {% endif %}
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead. -->
 
