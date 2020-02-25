@@ -4,9 +4,9 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="">
+<!--img class="overview-image" src=""-->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+To make objects appear to move, we need to draw them over and over -- in a loop -- while changing the object's position, it's X and Y coordinates. In this lesson we'll begin by learning how create a **function** called `draw()` that will be called in an endless loop. The `draw()` loop will be responsible for updating the objects in the scene and then drawing them.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
